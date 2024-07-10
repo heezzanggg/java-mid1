@@ -31,6 +31,7 @@ public class Ex1RefMainV1 {
 
         Dice dice = new Dice();
         Sum sum = new Sum();
+
         System.out.println("Hello 실행");
         hello(dice);
         hello(sum);
