@@ -1,4 +1,4 @@
-package exception.ex0.basic.checked;
+package exception.basic.checked;
 
 public class MyCheckedException extends Exception {
 

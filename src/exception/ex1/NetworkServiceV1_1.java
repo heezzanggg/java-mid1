@@ -1,4 +1,4 @@
-package exception.ex0;
+package exception.ex1;
 
 public class NetworkServiceV1_1 {
 

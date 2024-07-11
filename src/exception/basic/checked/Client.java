@@ -1,4 +1,4 @@
-package exception.ex0.basic.checked;
+package exception.basic.checked;
 
 public class Client {
     //throws 발생시킨 예외를 메서드 밖으로 던질 때 사용
