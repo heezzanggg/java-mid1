@@ -2,7 +2,8 @@ package enumeration.test;
 
 import java.util.Scanner;
 
-public class AuthGradeMAin2 {
+public class AuthGradeMain2 {
+
     public static void main(String[] args) {
         //인증 등급을 입력 바다서 앞서 만든 AuthGrade 열거형으로 변환
         //인증 등급에 따라 접근할 수 있는 화면 다름

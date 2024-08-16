@@ -1,7 +1,5 @@
 package enumeration.ex2;
 
-import enumeration.ex1.StringGrade;
-
 public class ClassGradeEx2_1 {
     public static void main(String[] args) {
         int price = 1000;
