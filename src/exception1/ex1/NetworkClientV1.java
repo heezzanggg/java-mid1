@@ -1,4 +1,4 @@
-package exception1.ex1.ex0;
+package exception1.ex1;
 
 public class NetworkClientV1 {
 //외부서버와 연결, 데이터 전송, 연결 종료

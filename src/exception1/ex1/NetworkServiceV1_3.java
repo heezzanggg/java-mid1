@@ -1,4 +1,4 @@
-package exception1.ex1.ex0;
+package exception1.ex1;
 
 /**
  * NetworkClient 이용해서 데이터 전송함.
