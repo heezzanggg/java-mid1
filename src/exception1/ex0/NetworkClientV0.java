@@ -1,7 +1,7 @@
-package exception.ex0;
+package exception1.ex0;
 
 public class NetworkClientV0 {
-
+//외부서버와 연결, 데이터 전송, 연결 종료
     private final String address;
 
     public NetworkClientV0(String address) {
@@ -13,13 +13,12 @@ public class NetworkClientV0 {
         return "success";
     }
 
-    public String sendMessage(String data){
-        System.out.println(address + " 서버에 데이터 전송: "+ data);
+    public String send(String data) {
+        System.out.println(address + " 서버에 데이터 전송: " + data);
         return "success";
     }
 
-    public String disconnect() {
-        System.out.println(address + " 서버 연결 해제");
-        return "success";
+    public void disconnect() {
+        System.out.println(address+" 서버 연결 해제");
     }
 }
